@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <AssemblyName>FiveMPermissionFixer</AssemblyName>
+    <RootNamespace>FiveMPermissionFixer</RootNamespace>
+    <ApplicationIcon>canada-roleplay-icon-1024.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Content Include="canada-roleplay-icon-1024.ico" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Include="Assets\SirenSetting_Limit_Adjuster.asi" LogicalName="FiveMPermissionFixer.Assets.SirenSetting_Limit_Adjuster.asi" />
+  </ItemGroup>
+</Project>
