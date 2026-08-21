@@ -1,2 +1,0 @@
-C:\Users\IFrui\Downloads\FiveMPermissionFixer_With_ASI\bin\Release\net8.0\publish\win-x64\FiveMPermissionFixer.pdb
-C:\Users\IFrui\Downloads\FiveMPermissionFixer_With_ASI\bin\Release\net8.0\publish\win-x64\FiveMPermissionFixer.exe
